@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZAB_CART_QUANTITY</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>17</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Cart Quantity for the Shopping Cart Example</DDTEXT>
+    <REPTEXT>Quantity</REPTEXT>
+    <SCRTEXT_S>Quantity</SCRTEXT_S>
+    <SCRTEXT_M>Quantity</SCRTEXT_M>
+    <SCRTEXT_L>Quantity</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>QUAN</DATATYPE>
+    <LENG>000013</LENG>
+    <DECIMALS>000003</DECIMALS>
+    <OUTPUTLEN>000017</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

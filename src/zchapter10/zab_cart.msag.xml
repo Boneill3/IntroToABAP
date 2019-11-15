@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZAB_CART</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Shoppping Cart Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Customer &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Update completed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Deletion completed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Product &amp; added</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Product &amp; added</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Cart cleared</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAB_CART</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Error occurred</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

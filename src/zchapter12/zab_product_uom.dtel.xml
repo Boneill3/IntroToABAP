@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZAB_PRODUCT_UOM</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>15</HEADLEN>
+    <SCRLEN1>04</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>15</SCRLEN3>
+    <DDTEXT>Product UOM for the Shopping Cart Example</DDTEXT>
+    <REPTEXT>Unit of Measure</REPTEXT>
+    <SCRTEXT_S>Unit</SCRTEXT_S>
+    <SCRTEXT_M>Unit of Measure</SCRTEXT_M>
+    <SCRTEXT_L>Unit of Measure</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>UNIT</DATATYPE>
+    <LENG>000003</LENG>
+    <OUTPUTLEN>000003</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
